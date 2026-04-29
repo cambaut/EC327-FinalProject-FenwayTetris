@@ -232,7 +232,7 @@ class TetrisEngine:
             "Each piece can be moved with the arrow keys!",
             "                 <-  = move left",
             "                 ->  = move right",
-            "                 v  = Hard drop!",
+            "                 Space  = Hard drop!",
             "                 ^  = rotate piece",
             "",
             "If a row of the same color is cleared, you earn",
